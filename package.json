@@ -4,6 +4,23 @@
   "publisher": "LinqLover",
   "description": "Color theme from Squeak/Smalltalk 6.0 (class SqueakTheme).",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LinqLover/vscode-squeak-theme"
+  },
+  "bugs": {
+    "url": "https://github.com/LinqLover/vscode-squeak-theme/issues"
+  },
+  "keywords": [
+    "themes",
+    "squeak",
+    "smalltalk"
+  ],
+  "icon": "./squeak.png",
+  "galleryBanner": {
+    "color": "#ffffff",
+    "theme": "light"
+  },
   "engines": {
     "vscode": "^1.76.0"
   },
