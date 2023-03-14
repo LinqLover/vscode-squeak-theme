@@ -1,0 +1,21 @@
+{
+  "name": "squeak-theme",
+  "displayName": "vscode-squeak-theme",
+  "description": "Color theme from the Squeak/Smalltalk 6.0 (class SqueakTheme).",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.76.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Squeak",
+        "uiTheme": "vs",
+        "path": "./themes/squeak-color-theme.json"
+      }
+    ]
+  }
+}
