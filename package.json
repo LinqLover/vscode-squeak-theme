@@ -1,7 +1,8 @@
 {
   "name": "squeak-theme",
-  "displayName": "vscode-squeak-theme",
-  "description": "Color theme from the Squeak/Smalltalk 6.0 (class SqueakTheme).",
+  "displayName": "Squeak",
+  "publisher": "LinqLover",
+  "description": "Color theme from Squeak/Smalltalk 6.0 (class SqueakTheme).",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.76.0"
